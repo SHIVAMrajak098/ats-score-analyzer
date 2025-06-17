@@ -67,20 +67,6 @@ App will open in your browser at http://localhost:8501
 
 
 
-**## 📦 Tech Stack**
-
-Python 3.10+
-
-Streamlit
-
-pdfminer.six
-
-sentence-transformers
-
-scikit-learn
-
-python-dotenv
-
 Groq API (LLaMA-3.3-70b)
 
 
