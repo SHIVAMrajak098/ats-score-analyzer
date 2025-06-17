@@ -1,19 +1,38 @@
-🧠 AI Resume Analyzer
-Analyze your resume against job descriptions using AI & BERT. Get similarity scores, keyword insights, and personalized suggestions.
+<h1 align="center">🧠 AI Resume Analyzer</h1>
+<p align="center">
+  Analyze your resume against job descriptions using AI & BERT. Get similarity scores, keyword insights, and personalized suggestions.
+</p>
 
-   
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python">
+  <img src="https://img.shields.io/badge/Streamlit-Framework-red?logo=streamlit">
+  <img src="https://img.shields.io/badge/Groq-LLM-green">
+  <img src="https://img.shields.io/badge/Resume%20Analysis-AI%20Powered-brightgreen">
+</p>
 
-🚀 Features
-📄 Upload Resume (PDF)
-💼 Paste Job Description
-🤖 Get AI-Powered Feedback using Groq (LLaMA 3)
-📈 BERT-based ATS Score (semantic similarity)
-📌 Keyword Match – see what’s missing!
-🔮 Hiring Probability estimate
-📥 Downloadable full report
-🧠 Built with Streamlit, sentence-transformers, and Groq LLM
+---
 
-⚙️ Installation
+## 🚀 Features
+
+- 📄 Upload **Resume (PDF)**
+- 💼 Paste **Job Description**
+- 🤖 Get **AI-Powered Feedback** using Groq (LLaMA 3)
+- 📈 **BERT-based ATS Score** (semantic similarity)
+- 📌 **Keyword Match** – see what’s missing!
+- 🔮 **Hiring Probability** estimate
+- 📥 Downloadable full **report**
+- 🧠 Built with **Streamlit**, **sentence-transformers**, and **Groq LLM**
+
+---
+
+## 📸 Preview
+
+
+---
+
+## ⚙️ Installation
+
+```bash
 git clone https://github.com/your-username/ai-resume-analyzer.git
 cd ai-resume-analyzer
 
@@ -33,22 +52,3 @@ GROQ_API_KEY=your_groq_api_key_here
 streamlit run main.py
 
 App will open in your browser at http://localhost:8501
-
-
-## 🛠️ Tech Stack
-
-- [Streamlit](https://streamlit.io/)
-- [Sentence-BERT](https://www.sbert.net/)
-- [Groq API](https://console.groq.com/) (for LLaMA-3)
-- [PDFMiner](https://github.com/pdfminer/pdfminer.six)
-- [Python](https://www.python.org/)
-
-
-
-🙋‍♂️ Author
-Shivam Rajak
-🔗 LinkedIn
-https://www.linkedin.com/in/shivam-rajak-3177102b8
-
-📄 License
-This project is licensed under the MIT License - feel free to use or modify it.
