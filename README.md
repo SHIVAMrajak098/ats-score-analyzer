@@ -25,10 +25,18 @@
 
 ---
 
-## 📸 Preview
+## 🖼️ App Preview
+
+### 📍 Main Interface
+![Main UI](screenshots/Screenshot%202025-06-17%20162531.png)
+
+### 📍 Job Description Input & Score Output
+![Job Description](screenshots/Screenshot%202025-06-17%20162618.png)
+
+### 📍 Keyword Analysis & Final Verdict
+![Keyword Match](screenshots/Screenshot%202025-06-17%20162642.png)
 
 
-![AI Resume Analyzer Screenshot](screenshots/Screenshot%202025-06-17%20162531.png)
 
 
 ---
