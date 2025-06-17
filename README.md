@@ -68,6 +68,7 @@ App will open in your browser at http://localhost:8501
 
 
 ## 📦 Tech Stack
+
 Python 3.10+
 
 Streamlit
