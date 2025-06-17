@@ -63,3 +63,32 @@ GROQ_API_KEY=your_groq_api_key_here
 streamlit run main.py
 
 App will open in your browser at http://localhost:8501
+
+
+
+
+## 📦 Tech Stack
+Python 3.10+
+
+Streamlit
+
+pdfminer.six
+
+sentence-transformers
+
+scikit-learn
+
+
+python-dotenv
+
+Groq API (LLaMA-3.3-70b)
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-rajak-3177102b8)
+
+## Authors
+
+- [@SHIVAM](https://github.com/SHIVAMrajak098)
+
+
