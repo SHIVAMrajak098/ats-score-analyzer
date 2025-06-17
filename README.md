@@ -85,15 +85,5 @@ Groq API (LLaMA-3.3-70b)
 
 
 
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-rajak-3177102b8)
-
-
-
-
-## Authors
-
-- [@SHIVAM](https://github.com/SHIVAMrajak098)
 
 
