@@ -28,6 +28,9 @@
 ## 📸 Preview
 
 
+![AI Resume Analyzer Screenshot](screenshots/Screenshot%202025-06-17%20162531.png)
+
+
 ---
 
 ## ⚙️ Installation
