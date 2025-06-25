@@ -44,7 +44,7 @@
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/ai-resume-analyzer.git
+git clone https://github.com/SHIVAMrajak098/ai-resume-analyzer.git
 cd ai-resume-analyzer
 
 python -m venv venv
